@@ -83,3 +83,12 @@ These are t-shirts that contain illustration besides a text.
 | Dog lovers | $19.99 | S-5XL |
 
 ---
+
+#### 9. [I became a programmer](https://www.teefantastic.com/became-a-programmer)
+
+[<img src="./developer-tshirt/i_became_a_programmer.jpeg" alt="I became a programmer" width=450px>](https://www.teefantastic.com/became-a-programmer)
+| Made for | Price | Size |
+| ----------------- | ------ | ----- |
+| any programmer | $25.99 | S-6XL |
+
+---
