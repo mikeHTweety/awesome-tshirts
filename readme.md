@@ -31,7 +31,7 @@ These are t-shirts that contain illustration besides a text.
 
 #### 3. [Linux may the source be with you](https://crazymonk.in/linux-may-be-source-be-with-you-half-sleeve-t-shirt/)
 
-[<img src="./developer-tshirt/linux_may_the_source_be_with_you.jpeg" alt="linux may the source be with you" width="450px"](https://crazymonk.in/linux-may-be-source-be-with-you-half-sleeve-t-shirt/)
+[<img src="./developer-tshirt/linux_may_the_source_be_with_you.jpeg" alt="linux may the source be with you" width="450px">](https://crazymonk.in/linux-may-be-source-be-with-you-half-sleeve-t-shirt)
 
 | Made for                 | Price  | Size  |
 | ------------------------ | ------ | ----- |
