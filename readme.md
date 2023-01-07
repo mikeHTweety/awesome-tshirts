@@ -110,3 +110,12 @@ These are t-shirts that contain illustration besides a text.
 | software engineer that recently went trough hiring process | $19.99 | S-5XL |
 
 ---
+
+#### 12. [There is no cloud its always someone else's computer](https://www.teepublic.com/t-shirt/13029247-funny-there-is-no-cloud-its-just-someone-elses-com?feed_sku=13029247D1V&feed_country=US&epik=dj0yJnU9TTZFYWZEZXEwUm1Ncnc2ZnVYRnZDN1o3MUYyVURJSUkmcD0wJm49anlTdjlYeVowM3hzdmZyVVNfZEU3QSZ0PUFBQUFBR081cndn)
+
+[<img src="./developer-tshirt/there_is_no_cloud_its_always_someone_else_computer.webp" alt="There is no cloud its always someone else computer" width=450px>](https://www.teepublic.com/t-shirt/13029247-funny-there-is-no-cloud-its-just-someone-elses-com?feed_sku=13029247D1V&feed_country=US&epik=dj0yJnU9TTZFYWZEZXEwUm1Ncnc2ZnVYRnZDN1o3MUYyVURJSUkmcD0wJm49anlTdjlYeVowM3hzdmZyVVNfZEU3QSZ0PUFBQUFBR081cndn)
+| Made for | Price | Size |
+| ----------------- | ------ | ----- |
+| cloud engineers | $22.99 | S-5XL |
+
+---
