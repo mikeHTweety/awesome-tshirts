@@ -120,11 +120,11 @@ These are t-shirts that contain illustration besides a text.
 
 ---
 
-#### 13. [Its harder to read code than write it](https://www.devshirt.club/developer-shirt/its-harder-to-read-code-than-to-write-it)
+#### 13. [If you control the code you control the world](https://www.devshirt.club/developer-shirt/world-code-control)
 
-[<img src="./developer-tshirt/its_harder_to_read_code_than_write_it.jpeg" alt="Its harder to read code than write it" width=450px>](https://www.devshirt.club/developer-shirt/its-harder-to-read-code-than-to-write-it)
+[<img src="./developer-tshirt/if_you_control_the_code_you_control_the_world.jpeg" alt="If you control the code you control the world" width=450px>](https://www.devshirt.club/developer-shirt/world-code-control)
 | Made for | Price | Size |
 | ----------------- | ------ | ----- |
-| Senior or junior engineer | $19.99 | S-5XL |
+| Programming enthusiast, Junior programmer | $19.99 | S-5XL |
 
 ---
