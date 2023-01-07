@@ -13,8 +13,12 @@
 
 - Feel free to issue pull request
 
-### Developer T-shirt list
+### Illustrated developer t-shirt list
 
-[Build in progress
-![Build in progress](./developer-tshirt/build_in_progress.jpeg)
-](https://www.devshirt.club/developer-shirt/build-in-progress)
+These are t-shirts that contain illustration besides a text.
+
+|Title|Made for | Price | Size | image |
+|---|-----|--------|------|---|
+|[Build in progress](https://www.devshirt.club/developer-shirt/build-in-progress)|Sre and devops|$ 19.99|S-5XL |[<img src="./developer-tshirt/build_in_progress.jpeg" height="300">](https://www.devshirt.club/developer-shirt/build-in-progress)|
+||
+
