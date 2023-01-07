@@ -170,6 +170,6 @@ These are t-shirts that contain illustration besides a text.
 [<img src="./developer-tshirt/crypto_sceptics.jpeg" alt="crypto sceptics" width=450px>](https://www.devshirt.club/developer-shirt/crypto-sceptics)
 | Made for | Price | Size |
 | ----------------- | ------ | ----- |
-| Crypto enthusiast, Solidity developer | $19.99 | S-5XL |
+| Crypto hater, crypto sceptics | $19.99 | S-5XL |
 
 ---
