@@ -16,5 +16,5 @@
 ### Developer T-shirt list
 
 [Build in progress
-![Build in progress](./build_in_progress.jpeg)
+![Build in progress](./developer-tshirt/build_in_progress.jpeg)
 ](https://www.devshirt.club/developer-shirt/build-in-progress)
