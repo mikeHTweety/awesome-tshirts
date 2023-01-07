@@ -119,3 +119,12 @@ These are t-shirts that contain illustration besides a text.
 | cloud engineers | $22.99 | S-5XL |
 
 ---
+
+#### 13. [Its harder to read code than write it](https://www.devshirt.club/developer-shirt/its-harder-to-read-code-than-to-write-it)
+
+[<img src="./developer-tshirt/its_harder_to_read_code_than_write_it.jpeg" alt="Its harder to read code than write it" width=450px>](https://www.devshirt.club/developer-shirt/its-harder-to-read-code-than-to-write-it)
+| Made for | Price | Size |
+| ----------------- | ------ | ----- |
+| Senior or junior engineer | $19.99 | S-5XL |
+
+---
