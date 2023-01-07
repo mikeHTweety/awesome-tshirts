@@ -143,6 +143,15 @@ These are t-shirts that contain illustration besides a text.
 [<img src="./developer-tshirt/i_am_a_videogame_developer.webp" alt="I am a videogame developer" width=450px>](https://www.teepublic.com/t-shirt/21602840-programmer-games-quote-videogame-developer)
 | Made for | Price | Size |
 | ----------------- | ------ | ----- |
-| Parent engineer | $19.99 | S-5XL |
+| Parent engineer | $22.00 | S-5XL |
+
+---
+
+#### 16. [Data Monkey Data Evaluator Code Programmer T-Shirt](https://senprints.com/hr/data-monkey-data-evaluator-code-programmer-t-shirt?product=unisex-standard-t-shirt)
+
+[<img src="./developer-tshirt/data_monkey_evaluator_programmer.jpeg" alt="data monkey evaluater" width=450px>](https://senprints.com/hr/data-monkey-data-evaluator-code-programmer-t-shirt?product=unisex-standard-t-shirt)
+| Made for | Price | Size |
+| ----------------- | ------ | ----- |
+| Data entry, BI, analytics | $19.99 | S-5XL |
 
 ---
