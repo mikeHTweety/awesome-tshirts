@@ -128,3 +128,12 @@ These are t-shirts that contain illustration besides a text.
 | Programming enthusiast, Junior programmer | $19.99 | S-5XL |
 
 ---
+
+#### 14. [Parent programmer](https://www.devshirt.club/reprints/parent-programmer)
+
+[<img src="./developer-tshirt/parent_programmer.jpeg" alt="Parent programmer" width=450px>](https://www.devshirt.club/reprints/parent-programmer)
+| Made for | Price | Size |
+| ----------------- | ------ | ----- |
+| Parent engineer | $19.99 | S-5XL |
+
+---
