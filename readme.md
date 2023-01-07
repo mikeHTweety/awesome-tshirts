@@ -152,6 +152,24 @@ These are t-shirts that contain illustration besides a text.
 [<img src="./developer-tshirt/data_monkey_evaluator_programmer.jpeg" alt="data monkey evaluater" width=450px>](https://senprints.com/hr/data-monkey-data-evaluator-code-programmer-t-shirt?product=unisex-standard-t-shirt)
 | Made for | Price | Size |
 | ----------------- | ------ | ----- |
-| Data entry, BI, analytics | $19.99 | S-5XL |
+| Data entry, BI, analytics | $21.99 | S-5XL |
+
+---
+
+#### 17. [Do crypto with passion or dont do it at all](https://www.devshirt.club/developer-shirt/do-crypto-with-passion-or-dont-do-it-at-all)
+
+[<img src="./developer-tshirt/do_cyrpto_with_passion_or_dont_do_it_at_all.jpeg" alt="data monkey evaluater" width=450px>](https://www.devshirt.club/developer-shirt/do-crypto-with-passion-or-dont-do-it-at-all)
+| Made for | Price | Size |
+| ----------------- | ------ | ----- |
+| Crypto enthusiast, Solidity developer | $19.99 | S-5XL |
+
+---
+
+#### 18. [Crypto sceptics](https://www.devshirt.club/developer-shirt/crypto-sceptics)
+
+[<img src="./developer-tshirt/crypto_sceptics.jpeg" alt="crypto sceptics" width=450px>](https://www.devshirt.club/developer-shirt/crypto-sceptics)
+| Made for | Price | Size |
+| ----------------- | ------ | ----- |
+| Crypto enthusiast, Solidity developer | $19.99 | S-5XL |
 
 ---
