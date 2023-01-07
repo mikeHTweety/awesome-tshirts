@@ -65,3 +65,21 @@ These are t-shirts that contain illustration besides a text.
 | Any programmer | $22.00 | S-5XL |
 
 ---
+
+#### 7. [Docker saves the day](https://www.devshirt.club/developer-shirt/docker-saves-the-day)
+
+[<img src="./developer-tshirt/docker_saves_the_day.jpeg" alt="docker saves the day" width=450px>](https://www.devshirt.club/developer-shirt/docker-saves-the-day)
+| Made for | Price | Size |
+| ----------------- | ------ | ----- |
+| Backend, full stack | $19.99 | S-5XL |
+
+---
+
+#### 8. [I are programmer I make computer beep boop](https://www.devshirt.club/developer-shirt/i-are-programmer-i-make-computer-beep-boop)
+
+[<img src="./developer-tshirt/i_are_programmer_i_make_computer_beep_boop.jpeg" alt="I are programmer i make computer beep boop" width=450px>](https://www.devshirt.club/developer-shirt/i-are-programmer-i-make-computer-beep-boop)
+| Made for | Price | Size |
+| ----------------- | ------ | ----- |
+| Dog lovers | $19.99 | S-5XL |
+
+---
