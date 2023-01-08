@@ -1,4 +1,4 @@
-## 🏵️ Best developer t-shirts
+## 🏵️ Awesome developer t-shirts
 
 This is a currated list of t-shirts made for programmers, developers and software engineers.
 
@@ -6,7 +6,7 @@ We try our best to keep it updated with fresh designs as we find them.
 
 Feel free to open an issue or do a pull request with designs you like.
 
-## 🎨 Illustrated developer t-shirt list
+## 🎨 Awesome Illustrated developer t-shirt list
 
 These are t-shirts that contain illustration besides a text.
 
